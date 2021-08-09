@@ -11,7 +11,7 @@ The first step is to make sure the worksheet clear
 clc; clear; close all; warning off all; 
 ```
 This is the image that I will use for this project
-![alt text](pictures/2_load.png)
+![alt text](pictures/1_ori.JPG)
 ## 2. Read Image
 Reading this picture can be done in various ways. The method commonly used to obtain images is by input via directories, webcams, and external cameras. On this system, I call files that are on my computer. To give a better view, we can create a good interface and easy to use as a form of development.
 
